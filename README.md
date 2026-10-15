@@ -27,7 +27,7 @@ Todos los ejercicios interesantes realizados en programación.
      _Aún sin información_
 ## Guía del contenido
 ### Primer Trimestre
-- **INICIALES** (Contiene instrucciones de entrada, salida y asignación)
+- **INICIALES** (Contiene UNICAMENTE instrucciones de entrada, salida y asignación)
 
 - **CONDICIONALES** (Contiene intrucciones if/else)
 
