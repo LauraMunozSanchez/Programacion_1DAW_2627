@@ -3,7 +3,7 @@ Todos los ejercicios interesantes realizados en programación.
 
 > Con interesantes no me refiero que sean dificiles o avanzados, sino que de cada apartado y dificultad cuales me han parecido los más atractivos.
 
-## Guía del contenido
+## Contenidos de cada trimestre
 1. **Primer trimestre:**
     - Instrucción de Entrada
     - Instrucción de Salida
@@ -22,9 +22,8 @@ Todos los ejercicios interesantes realizados en programación.
 2. **Tercer trimestre:**
 
      _Aún sin información_
-## Primer Trimestre
-Cada carpeta corresponde a un apartado u hoja de ejercicios.
-
+## Guía del contenido
+### Primer Trimestre
 - **INICIALES** (Contiene instrucciones de entrada, salida y asignación)
 
 - **CONDICIONALES** (Contiene intrucciones if/else)
@@ -38,8 +37,8 @@ Cada carpeta corresponde a un apartado u hoja de ejercicios.
     
 - **Repaso completo**
 
-## Segundo Trimestre
+### Segundo Trimestre
 _Aún sin información_
 
-## Tercer Trimestre
+### Tercer Trimestre
 _Aún sin información_
