@@ -38,7 +38,7 @@ Todos los ejercicios interesantes realizados en programación.
     - For
     - Interruptor Switch
     
-- **Repaso completo**
+- **REPASO**
 
 ### Segundo Trimestre
 _Aún sin información_
