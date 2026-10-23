@@ -8,6 +8,7 @@ Todos los ejercicios interesantes realizados en programación.
 
 ## Contenidos de cada trimestre
 1. **Primer trimestre:**
+   > Solo se usa C
     - Instrucción de Entrada
     - Instrucción de Salida
     - Instrucción de Asignación
@@ -18,7 +19,8 @@ Todos los ejercicios interesantes realizados en programación.
     - Condicional Switch/Case
     - Interruptor Switch
 
-2. **Segundo trimestre:**
+3. **Segundo trimestre:**
+   > Solo se usa C
     - Arrays
 
 2. **Tercer trimestre:**
