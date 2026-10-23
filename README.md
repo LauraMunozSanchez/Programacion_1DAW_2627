@@ -19,8 +19,7 @@ Todos los ejercicios interesantes realizados en programación.
     - Interruptor Switch
 
 2. **Segundo trimestre:**
-
-     _Aún sin información_
+    - Arrays
 
 2. **Tercer trimestre:**
 
@@ -41,7 +40,9 @@ Todos los ejercicios interesantes realizados en programación.
 - **REPASO**
 
 ### Segundo Trimestre
-_Aún sin información_
+- **ARRAYS:**
+    - Unidimensionales
+    - Bidimensionales
 
 ### Tercer Trimestre
 _Aún sin información_
